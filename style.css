@@ -1,0 +1,24 @@
+
+@font-face { 
+    font-family: red-dead;
+    src: url(fontes/chinese\ rocks\ rg.otf);
+    
+}
+
+body {
+    text-align: center;
+}
+section#rdr {
+    background-color: red;
+    text-align: center;
+    font-family: red-dead;
+    font-size: 25px;
+}
+
+div#link > a {
+    color: black;
+    
+}
+div#link > a:hover{ 
+    text-decoration: none;
+}
